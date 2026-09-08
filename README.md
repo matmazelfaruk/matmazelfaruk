@@ -1,4 +1,4 @@
-### 👋 Merhaba, ben Osman!
+### 👋 Merhaba, ben Matmazelfaruk!
 
 Web teknolojilerine ve kodlamaya tutku duyan bir geliştiriciyim. Şu an DGS'ye hazırlanırken bir yandan da modern web tasarımını, Linux tabanlı sistemleri ve yazılım geliştirme araçlarını öğreniyorum.
 
